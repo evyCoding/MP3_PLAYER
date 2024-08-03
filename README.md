@@ -1,9 +1,5 @@
 # MP3 Player Made by yhevu
 
-Here's the updated description for your MP3 player project, incorporating the additional details:
-
----
-
 ## MP3 Player Project
 
 ### Overview
