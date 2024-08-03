@@ -1,6 +1,5 @@
 # MP3 Player Made by yhevu
 
-## MP3 Player Project
 
 ### Overview
 
